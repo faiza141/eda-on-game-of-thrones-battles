@@ -1,36 +1,43 @@
-# EDA GAME OF THRONES BATTLES
-This project provides an in-depth exploratory data analysis (EDA) of battles from the Game of Thrones universe using the official dataset of battles fought between the Great Houses of Westeros. The goal is to uncover interesting patterns, battle strategies, and historical insights that shaped the outcome of the wars.
+# Project Overview:
+This project presents an in-depth exploratory data analysis (EDA) of battles from the Game of Thrones universe, based on the official dataset detailing conflicts between the Great Houses of Westeros. The goal is to uncover interesting patterns, battle strategies, and historical insights that influenced the outcomes of the wars. An additional EDA on character deaths was also conducted to further enrich the analysis.
 
-
-# Key Findings:
-
+#Key Findings
 Kings & House Dynamics:
-
 Most active attacker king: Robb Stark
+
 Most active defender king: Joffrey/Tommen Baratheon
-Robb Stark led the most battles and had a strong win rate as an attacker.
+
+Insight: Robb Stark led the most battles and maintained a strong win rate as an attacker.
 
 Battle Outcomes:
-
 Attacker victories: ~59%
+
 Defender victories: ~41%
-Attacking generally resulted in a higher chance of success, potentially due to initiative and planning.
+
+Insight: Attacking generally resulted in a higher chance of success, possibly due to initiative and strategic planning advantages.
 
 Battle Types:
+Most common battle type: Pitched battle
 
-Most common: Pitched battle
 Other types: Ambush, siege, razing
-Pitched battles had a relatively balanced outcome rate, while ambushes often favored attackers.
+
+Insight: Pitched battles showed a relatively balanced outcome, whereas ambushes often favored the attacker.
 
 Regions Involved:
+Top regions: Riverlands, The North, The Westerlands
 
-Most battles took place in the Riverlands, followed by The North and The Westerlands.
-These regions were strategic and central to political conflicts.
+Insight: These regions were critical strategic locations in the political landscape of Westeros.
 
 Commanders:
-
 Most featured commanders: Robb Stark, Jaime Lannister, Roose Bolton
-Multiple battles lacked commander data, limiting deeper comparisons.
+
+Note: Several battles lacked commander data, limiting deeper leadership comparisons.
+
+Bonus Analysis:
+
+Conducted EDA on character deaths, exploring patterns such as house affiliations, death rates by allegiance, and impacts of major battles on character mortality.
+
+
 
 Army Size Impact:
 
